@@ -5,11 +5,13 @@ int main()
 	scanf("%c",&ch);
 	if((ch>='a')&&(ch<='z'))
 	{
-	printf("alphabet");
-}
+		printf("alphabet");
+	}
 	else
-	   {
+	{
 		printf("not alphabet");
-           }
-		return 0;
+	}
+	return 0;
 }
+
+// super ra very good
