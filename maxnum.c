@@ -1,3 +1,6 @@
+// Every program should have this header , ok na ?
+// input example : 1 5 7 
+// output example:  7
 #include<stdio.h>
 int main()
 {
@@ -18,4 +21,6 @@ int main()
     	printf("%d\n", maximum);
  	return 0;
 } 
+
+// Brilliant ra 
 
